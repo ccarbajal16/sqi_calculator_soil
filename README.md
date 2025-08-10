@@ -124,8 +124,8 @@ The application supports a wide range of coordinate systems and automatically ha
 
 ```bash
 # Clone the repository
-git clone https://github.com/ccarbajal16/sqi_calculator.git
-cd sqi_calculator
+git clone https://github.com/ccarbajal16/sqi_calculator_soil.git
+cd sqi_calculator_soil
 
 # Create virtual environment (recommended)
 python -m venv sqi_env
@@ -342,8 +342,8 @@ We welcome contributions to improve the SQI Calculator! Here's how you can help:
 
 ```bash
 # Fork the repository on GitHub
-git clone https://github.com/yourusername/sqi_stream.git
-cd sqi_stream
+git clone https://github.com/ccarbajal16/sqi_calculator_soil.git
+cd sqi_calculator_soil
 
 # Create development environment
 python -m venv dev_env
@@ -383,7 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Created by Carlos Carbajal, with heartfelt appreciation for the soil science community—whose work profoundly grounds and sustains us.**
-- **Issues**: Report bugs and request features via [GitHub Issues](https://github.com/ccarbajal16/sqi_calculator/issues)
+- **Issues**: Report bugs and request features via [GitHub Issues](https://github.com/ccarbajal16/sqi_calculator_soil/issues)
 - **Documentation** : Detailed guides can be found in the repository’s `docs` folder.
 
 ---
@@ -399,7 +399,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **numpy>=1.20.0** - Numerical computing
 - **scipy>=1.9.0** - Scientific computing
 
-### Geostatistical Analysis 
+### Geostatistical Analysis
 
 - **pykrige>=1.7.0** - True Ordinary Kriging implementation
 
